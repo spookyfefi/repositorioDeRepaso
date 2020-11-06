@@ -5,3 +5,5 @@
 //git commit -m "Algun mensaje" 
 
 //git status
+
+//git push origin master (subirlo a github)
